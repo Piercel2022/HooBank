@@ -34,7 +34,7 @@ REQUIRED SECTIONS:
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ](#faq)
 - [📝 License](#license)
-![modern_banking](https://github.com/Piercel2022/nextbank/assets/98626003/7782bdce-478e-4456-8a76-3b8fed99d9a1)
+![hoobank](https://github.com/Piercel2022/nextbank/assets/98626003/d82d129e-37b1-4f18-96f0-fe0aedfcf2b2)
 
 
 
