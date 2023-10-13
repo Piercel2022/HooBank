@@ -83,7 +83,7 @@ REQUIRED SECTIONS:
 
 
 
-- [NextBank](https://nextbank.netlify.app/)
+- [nextbank](https://nextbank.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
