@@ -34,6 +34,8 @@ REQUIRED SECTIONS:
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ](#faq)
 - [📝 License](#license)
+
+  
 ![hoobank](https://github.com/Piercel2022/nextbank/assets/98626003/d82d129e-37b1-4f18-96f0-fe0aedfcf2b2)
 
 
