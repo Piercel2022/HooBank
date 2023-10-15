@@ -74,7 +74,7 @@ REQUIRED SECTIONS:
 
 
 - **Rewards**
-- **100% secure**
+- **100% secured**
 - **Balance Transfer**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
